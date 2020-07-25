@@ -1,0 +1,21 @@
+body {
+  background-color: #005873;
+  color: white;
+}
+
+button {
+  margin-bottom: 15px;
+}
+
+.container {
+  margin-top: 24px;
+}
+
+a {
+  color: #FFFC33;
+}
+
+a:hover {
+  color: #FFFC33;
+  text-decoration: underline;
+}
