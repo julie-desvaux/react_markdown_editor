@@ -12,4 +12,4 @@
 * [Cliquez ici](https://julie-desvaux.github.io/react_markdown_editor/)
 
 ## 
-![Visuel](http://julie-desvaux.com/images/pokedex.png "Visuel")
+![Visuel](http://julie-desvaux.com/images/markdown_editor.png "Visuel")
