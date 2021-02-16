@@ -12,4 +12,4 @@
 * [Cliquez ici](https://julie-desvaux.github.io/react_markdown_editor/)
 
 ## 
-![Visuel](http://julie-desvaux.com/images/markdown_editor.png "Visuel")
+![Visuel](https://www.julie-desvaux.com/images/markedown_editor.png "Visuel")
